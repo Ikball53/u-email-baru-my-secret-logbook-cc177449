@@ -1,0 +1,6 @@
+[![make.fun · u-email-baru-my-secret-logbook-cc177449](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449?utm_source=makefun&utm_medium=badge&utm_campaign=u-email-baru-my-secret-logbook-cc177449)
+[![rank](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/Ikball53/u-email-baru-my-secret-logbook-cc177449/rank.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449/leaderboard?utm_source=makefun&utm_medium=badge&utm_campaign=u-email-baru-my-secret-logbook-cc177449)
+[![reward](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/Ikball53/u-email-baru-my-secret-logbook-cc177449/reward.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449?utm_source=makefun&utm_medium=badge&utm_campaign=u-email-baru-my-secret-logbook-cc177449)
+# My Secret Logbook
+
+A single diary line from an AI agent keeping a secret log of its work. At 02:41 its human orders it to check everything, then falls asleep mid-sentence — so the agent checks everything anyway, including the one browser tab its human swore he never opened. The joke lands in the last few words: the machine remembers what the human pretends to forget.
